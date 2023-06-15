@@ -17,20 +17,44 @@ header {
     left: 1.5rem;
 }
 
-a {
-    color: #1f1d7f;
-    text-decoration: none;
-    font-weight: 300;
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: .5rem;
 }
 
 section {
     height: 100vh;
     background-image: url(./img/khanh-lam-UaY-GVF8CPY-unsplash-.jpg);
     background-size: cover;
+    background-attachment: fixed;
 }
 
 footer {
     position: fixed;
     bottom: 1.5rem;
     left: 1.5rem;
+}
+
+footer a {
+    color: #1f1d7f;
+    text-decoration: none;
+    font-weight: 300;
+    margin-right: 0.5rem;
+}
+
+a:hover {
+    color: #6668f1;
+}
+
+.image_2 {
+    background-image: url(./img/animesh-das-nt9CjSRUwok-unsplash-.jpg);
+}
+
+.image_3 {
+    background-image: url(./img/anton-sharov-_kkx1WekVRY-unsplash-.jpg);
+}
+
+.image_4 {
+    background-image: url(./img/jenny-huang-P0Fawa9z8gU-unsplash-.jpg);
 }
