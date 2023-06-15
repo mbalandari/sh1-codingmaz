@@ -6,8 +6,6 @@ html {
 }
 
 body {
-    padding: 0;
-    margin: 0;
     font-family: 'Barlow', sans-serif;
     background-color: #004d9d;
     color: #ffffff;
@@ -19,6 +17,7 @@ a {
 }
 
 section {
-    height: 12.5rem;
-    background-color: yellow;
+    height: 100vh;
+    background-image: url(./img/khanh-lam-UaY-GVF8CPY-unsplash-.jpg);
+    background-size: cover;
 }
