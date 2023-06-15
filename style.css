@@ -8,4 +8,17 @@ html {
 body {
     padding: 0;
     margin: 0;
+    font-family: 'Barlow', sans-serif;
+    background-color: #004d9d;
+    color: #ffffff;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+section {
+    height: 12.5rem;
+    background-color: yellow;
 }
